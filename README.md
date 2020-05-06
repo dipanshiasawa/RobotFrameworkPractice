@@ -7,7 +7,7 @@ This is a Test Automation Project
 These are some prerequisites for project to work properly:
 
 * Download [Python](https://www.python.org/downloads/) from official website. If already downloaded, make sure it is 3.6.10 and above
-* To chech python version, use `$ python --version` it should be **3.8.2**
+* To check python version, use `$ python --version` 
 * Upgrade chrome browser to latest
 * If Python is already installed, make sure to upgrade pip
 `$ python -m pip install --upgrade pip`
@@ -41,7 +41,8 @@ Results will be stored in "Reports" folder. To view them, open "reports.html" an
 
 
 Note: Please do not hover mouse while running tests as it might fail the hover element cases.
-#### Thanks
+
+### Thanks
 ----
 
 
